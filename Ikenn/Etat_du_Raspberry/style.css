@@ -1,0 +1,18 @@
+header nav {
+    border: 2px solid black;
+    height: 100px;
+}
+header h1 {
+    text-align: center;
+    color: black;
+}
+#heure {
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+body h3 {
+    font-style: italic;
+}
+
+
